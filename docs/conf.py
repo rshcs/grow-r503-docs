@@ -18,7 +18,8 @@ release = '12-08-2023'
 extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.viewcode',
-    'sphinx.ext.napoleon'
+    'sphinx.ext.napoleon',
+    'sphinx_rtd_theme'
 ]
 
 # -- General configuration ---------------------------------------------------
